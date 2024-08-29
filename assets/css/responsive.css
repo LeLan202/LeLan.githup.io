@@ -1,17 +1,17 @@
 /* PC */
-@media(min-width: 1024px){
+@media(min-width: 64em){
 
 }
 
 /* Tablet */
-@media(min-width: 740px) and (max-width: 1023px){
+@media(min-width: 46.25em) and (max-width: 63.9375em){
     #about-2 .id{
     padding: 0 1px;
     }
 }
 
 /* Mobile */
-@media(max-width: 740px){  
+@media(max-width:  46.1875em ){  
     .s-full-width{
         width: 100% !important
     }
